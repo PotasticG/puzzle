@@ -1,0 +1,39 @@
+.puzzle-piece {
+    background-image: url('path_to_your_image.jpg');
+}
+
+#piece1 {
+    background-position: 0 0;
+}
+
+#piece2 {
+    background-position: -100px 0;
+}
+
+#piece3 {
+    background-position: -200px 0;
+}
+
+#piece4 {
+    background-position: 0 -100px;
+}
+
+#piece5 {
+    background-position: -100px -100px;
+}
+
+#piece6 {
+    background-position: -200px -100px;
+}
+
+#piece7 {
+    background-position: 0 -200px;
+}
+
+#piece8 {
+    background-position: -100px -200px;
+}
+
+#piece9 {
+    background-position: -200px -200px;
+}
